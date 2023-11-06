@@ -6,6 +6,7 @@ The code will be public soon~!
 
 ### Papers:
 [Iteratively-Refined Interactive 3d Medical Image Segmentation with Multi-Agent Reinforcement Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liao_Iteratively-Refined_Interactive_3D_Medical_Image_Segmentation_With_Multi-Agent_Reinforcement_Learning_CVPR_2020_paper.pdf)
+
 BIBTEX:
 ```
 @inproceedings{liao2020iteratively,
@@ -17,6 +18,7 @@ BIBTEX:
 }
 ```
 [Interactive medical image segmentation with self-adaptive confidence calibration](https://link.springer.com/article/10.1631/FITEE.2200299)
+
 BIBTEX:
 ```
 @article{shen2023interactive,
